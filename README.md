@@ -1,4 +1,3 @@
-```markdown
 # AWS Distributed Storage & Web Hosting Laboratory
 
 This repository documents the implementation of a distributed storage architecture using **Amazon S3** as a backend for an **Apache2** web server hosted on **Amazon EC2**. This setup replaces traditional local disk management (RAID/GlusterFS) with a scalable, cloud-native object storage solution.
